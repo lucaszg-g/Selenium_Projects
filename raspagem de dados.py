@@ -22,7 +22,7 @@ lista_final_celulares = []
 
 # Itera através das páginas
 contador = 1
-while contador <= 20:  # Modifique este valor conforme necessário
+while contador <= 5:  # Modifique este valor conforme necessário
     sleep(1.5)
 
     try:
